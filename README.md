@@ -1,2 +1,2 @@
-# Project-on-C-Language
-A project on C Language :  Student Marks Management System
+# Project using C language
+A Project using C language :  Student Marks Management System
